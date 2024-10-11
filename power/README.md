@@ -10,5 +10,7 @@ This project implements a function to raise a number to an integer power without
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/power-function.git
-   cd power-function
+   git clone https://github.com/imt17/fido-test.git
+   cd power
+   python power.py
+   ```
